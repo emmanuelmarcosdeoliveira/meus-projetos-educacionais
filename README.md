@@ -3,12 +3,13 @@
 Nesse repositório estou colocando os links dos projetos concluidos.
 
 ## 🛠 Habilidades
- HTML, CSS
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## Aprendizados
 
-Nesses projetos foi desenvolvidos tecnicas de HTML e CSS e um pouco de responsividade em alguns deles.
+Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em alguns deles.
 
 ## Screenshots e Links 🔗
 
