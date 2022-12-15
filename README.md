@@ -12,7 +12,11 @@ Nesses projetos foi desenvolvidos tecnicas de HTML e CSS e um pouco de responsiv
 
 ## Screenshots e Links 🔗
 
-![projeto-android](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true/250x250?text=Projeto-Android)! [projeto-android](https://projetos-educacionais-ot3b.vercel.app/)
+![projeto-android](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true/250x250?text=Projeto-Android) [projeto-android](https://projetos-educacionais-ot3b.vercel.app/)
+
+![Projeto-cordel](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true/250x250?text=Projeto-Android) [projeto-android](https://emmanuelmarcosdeoliveira.github.io/projeto-cordel/)
+
+
 
 
 
