@@ -61,7 +61,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 ![Projeto-Redes-Sociais](https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true)
 
-[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-redes-sociais/) <br>
+[Link do Projeto](https://projeto-redes-sociais-seven.vercel.app/) <br>
 [Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-redes-sociais)
 
 
