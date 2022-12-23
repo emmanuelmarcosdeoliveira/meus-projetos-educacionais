@@ -28,24 +28,42 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 <h2>Projeto Bikcraft</h2>
 
-![projeto-bikcraft](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true) [projeto-bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)
+![projeto-bikcraft](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true) 
+
+[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/) <br>
+[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft)
 
 <h2> Projeto Android </h2>
 
-![projeto-android](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//468x300?text=App+Screenshot+Here) [projeto-android](https://projetos-educacionais-ot3b.vercel.app/)
+![projeto-android](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//468x300?text=App+Screenshot+Here) 
+
+[Link do Projeto](https://projetos-educacionais-ot3b.vercel.app/) <br>
+[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-android)
+
 
 <h2>Projeto Game Shop</h2>
 
-![Projeto-game-shop](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true) [projeto-game-shop](https://1-projeto-game-shop.vercel.app/)
+![Projeto-game-shop](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true) 
+
+
+[Link do Projeto](https://1-projeto-game-shop.vercel.app/) <br>
+[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-game-shop)
 
 
 <h2>Projeto Cordel </h2>
 
-![Projeto-cordel](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true) [projeto-cordel](https://emmanuelmarcosdeoliveira.github.io/projeto-cordel/)
+![Projeto-cordel](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true)
+
+[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-cordel/) <br>
+[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-cordel)
 
 <h2>Projeto Redes Sociais </h2>
 
-![Projeto-Redes-Sociais](https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true) [projeto-Redes-sociais](https://emmanuelmarcosdeoliveira.github.io/projeto-redes-sociais/)
+![Projeto-Redes-Sociais](https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true)
+
+[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-redes-sociais/) <br>
+[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-redes-sociais)
+
 
 
 
