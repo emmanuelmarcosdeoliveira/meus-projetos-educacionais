@@ -15,11 +15,18 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 <h4>Mini-Screnschot</h4>
 <div>
- <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft">
+
+<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft">
+
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//300x300?text=App+Screenshot+Here" width="200" height="150" alt="Projeto-android">
- <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true" width="200" height="150" alt="projeto-cordel">
+
+<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true" width="200" height="150" alt="projeto-cordel">
+
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true" width="200" height="150" alt="projeto-game-shop">
+ 
  <img src="https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft">
+ 
+ <img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true" width="200" height="150" alt="Exemplo de Media-query">
 </div>
 
 <br>
@@ -66,10 +73,10 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 <h2>Trabalhando com Media Query </h2>
 
-![Projeto - Responsivo](https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true)
+![Projeto - Responsivo](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true)
 
-[Link do Projeto](https://projeto-redes-sociais-seven.vercel.app/) <br>
-[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-redes-sociais)
+[Link do Projeto](https://media-query-wheat.vercel.app/) <br>
+[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais)
 
 
 
