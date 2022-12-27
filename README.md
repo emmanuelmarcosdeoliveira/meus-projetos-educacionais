@@ -76,7 +76,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 ![Projeto - Responsivo](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true)
 
 [Link do Projeto](https://media-query-wheat.vercel.app/) <br>
-[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais)
+[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/media-query)
 
 
 
