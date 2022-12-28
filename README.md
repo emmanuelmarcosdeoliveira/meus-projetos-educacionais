@@ -34,10 +34,12 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 
 <h2>Projeto Bikcraft</h2>
+<div>
+<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="600" height="350" alt="Projeto-bikcraft">
+</div>
+<a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" alt="Bikcraft"></a>
 
-![projeto-bikcraft](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true) 
-
-[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/) <br>
+[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)
 [Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft)
 
 <h2> Projeto Android </h2>
@@ -50,7 +52,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 <h2>Projeto Game Shop</h2>
 
-![Projeto-game-shop](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true) 
+![Projeto-game-shop](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true w=300) 
 
 
 [Link do Projeto](https://1-projeto-game-shop.vercel.app/) <br>
