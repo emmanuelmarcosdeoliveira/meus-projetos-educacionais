@@ -37,7 +37,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 <div>
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="600" height="350" alt="Projeto-bikcraft">
 </div>
-<a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" alt="Bikcraft"></a>
+<a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="600" height="350" alt="Bikcraft"></a>
 
 [Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)
 [Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft)
