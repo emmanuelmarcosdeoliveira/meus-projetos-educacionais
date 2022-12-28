@@ -1,4 +1,4 @@
-# Olá venha ver os meus projetos 👀
+<h1 align="center">  Olá venha ver os meus projetos 👀 </h1>
 
 Nesse repositório estou colocando os links dos projetos concluidos.
 
@@ -55,10 +55,6 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 </table>
 <ul align="left">
  
-
-
-[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)   
-[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft)
 
 <h2> Projeto Android </h2>
 
