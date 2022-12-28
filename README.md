@@ -13,7 +13,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 ## Screenshots e Links 🔗
 
-<h4>Mini-Screnschot</h4>
+### Mini-Screnschot
 <div>
 
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft">
@@ -33,16 +33,38 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 <br>
 
 
-<h2>Projeto Bikcraft</h2>
-<div>
-<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="600" height="350" alt="Projeto-bikcraft">
-</div>
-<a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="600" height="350" alt="Bikcraft"></a>
+<h2 align="center">Projeto Bikcraft</h2>
 
-[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)
+<div  align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+     <b>
+      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">Acessar Projeto</a>
+     </b>
+      </td>
+    <td>
+     <b>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">Acessar Repositorio</a>
+     </b>
+    </td>
+  </tr>
+</table>
+<ul align="left">
+ 
+
+
+[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)   
 [Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft)
 
 <h2> Projeto Android </h2>
+
+<div>
+ <a href="https://projetos-educacionais-ot3b.vercel.app/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+</div>
 
 ![projeto-android](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//468x300?text=App+Screenshot+Here) 
 
