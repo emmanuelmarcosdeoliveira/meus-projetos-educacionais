@@ -53,7 +53,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
   <tr>
     <td>
      <b>
-      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">🌎 Acessar Projeto</a>
+      <a href="http://projetos-educacionais.vercel.app/">🌎 Acessar Projeto</a>
      </b>
       </td>
     <td>
@@ -75,7 +75,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
   <tr>
     <td>
      <b>
-      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">🌎 Acessar Projeto</a>
+      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-cordel/">🌎 Acessar Projeto</a>
      </b>
       </td>
     <td>
@@ -97,7 +97,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
   <tr>
     <td>
      <b>
-      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">🌎 Acessar Projeto</a>
+      <a href="http://1-projeto-game-shop.vercel.app/">🌎 Acessar Projeto</a>
      </b>
       </td>
     <td>
@@ -119,7 +119,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
   <tr>
     <td>
      <b>
-      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">🌎 Acessar Projeto</a>
+      <a href="http://projeto-redes-sociais-seven.vercel.app/">🌎 Acessar Projeto</a>
      </b>
       </td>
     <td>
@@ -142,7 +142,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
   <tr>
     <td>
      <b>
-      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">🌎 Acessar Projeto</a>
+      <a href="http://media-query-wheat.vercel.app/">🌎 Acessar Projeto</a>
      </b>
       </td>
     <td>
