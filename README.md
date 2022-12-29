@@ -11,27 +11,16 @@ Nesse repositório estou colocando os links dos projetos concluidos.
 
 Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em alguns deles.
 
-## Screenshots e Links 🔗
+<h2 align="center">Screenshots</h2>
 
-### Mini-Screnschot
-<div>
-
-<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft">
-
-<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//300x300?text=App+Screenshot+Here" width="200" height="150" alt="Projeto-android">
-
+<div align="left">
+<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft"> 
+<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//300x300?text=App+Screenshot+Here" width="200" height="150" alt="Projeto-android"> 
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true" width="200" height="150" alt="projeto-cordel">
-
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true" width="200" height="150" alt="projeto-game-shop">
- 
- <img src="https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft">
- 
+<img src="https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft">
  <img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true" width="200" height="150" alt="Exemplo de Media-query">
 </div>
-
-<br>
-<br>
-
 
 <h2 align="center">Projeto Bikcraft</h2>
 
@@ -55,48 +44,139 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 </table>
 <ul align="left">
  
+ <h2 align="center">Projeto Android</h2>
 
-<h2> Projeto Android </h2>
-
-<div>
- <a href="https://projetos-educacionais-ot3b.vercel.app/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+<div  align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
 </div>
 
-![projeto-android](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//468x300?text=App+Screenshot+Here) 
+<table align="center">
+  <tr>
+    <td>
+     <b>
+      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">Acessar Projeto</a>
+     </b>
+      </td>
+    <td>
+     <b>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">Acessar Repositorio</a>
+     </b>
+    </td>
+  </tr>
+</table>
+<ul align="left">
+ 
+ <h2 align="center">Projeto Cordel Moderno</h2>
 
-[Link do Projeto](https://projetos-educacionais-ot3b.vercel.app/) <br>
-[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-android)
+<div  align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+</div>
 
+<table align="center">
+  <tr>
+    <td>
+     <b>
+      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">Acessar Projeto</a>
+     </b>
+      </td>
+    <td>
+     <b>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">Acessar Repositorio</a>
+     </b>
+    </td>
+  </tr>
+</table>
+<ul align="left">
+ 
+ <h2 align="center">Projeto Game-Shop</h2>
 
-<h2>Projeto Game Shop</h2>
+<div  align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+</div>
 
-![Projeto-game-shop](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true w=300) 
+<table align="center">
+  <tr>
+    <td>
+     <b>
+      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">Acessar Projeto</a>
+     </b>
+      </td>
+    <td>
+     <b>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">Acessar Repositorio</a>
+     </b>
+    </td>
+  </tr>
+</table>
+<ul align="left">
+ 
+ <h2 align="center">Projeto Redes Sociais</h2>
 
+<div  align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+</div>
 
-[Link do Projeto](https://1-projeto-game-shop.vercel.app/) <br>
-[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-game-shop)
+<table align="center">
+  <tr>
+    <td>
+     <b>
+      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">Acessar Projeto</a>
+     </b>
+      </td>
+    <td>
+     <b>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">Acessar Repositorio</a>
+     </b>
+    </td>
+  </tr>
+</table>
+<ul align="left">
+ 
+ <h2 align="center">Projeto Media-Query</h2>
 
+<div  align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+</div>
 
-<h2>Projeto Cordel </h2>
+<table align="center">
+  <tr>
+    <td>
+     <b>
+      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">Acessar Projeto</a>
+     </b>
+      </td>
+    <td>
+     <b>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">Acessar Repositorio</a>
+     </b>
+    </td>
+  </tr>
+</table>
+<ul align="left">
+ 
+ <h2 align="center">Projeto Tela de Login</h2>
 
-![Projeto-cordel](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true)
+<div  align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+</div>
 
-[Link do Projeto](https://emmanuelmarcosdeoliveira.github.io/projeto-cordel/) <br>
-[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-cordel)
+<table align="center">
+  <tr>
+    <td>
+     <b>
+      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">Acessar Projeto</a>
+     </b>
+      </td>
+    <td>
+     <b>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">Acessar Repositorio</a>
+     </b>
+    </td>
+  </tr>
+</table>
+<ul align="left">
+ 
 
-<h2>Projeto Redes Sociais </h2>
-
-![Projeto-Redes-Sociais](https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true)
-
-[Link do Projeto](https://projeto-redes-sociais-seven.vercel.app/) <br>
-[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-redes-sociais)
-
-<h2>Trabalhando com Media Query </h2>
-
-![Projeto - Responsivo](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true)
-
-[Link do Projeto](https://media-query-wheat.vercel.app/) <br>
-[Link do Repositório](https://github.com/emmanuelmarcosdeoliveira/media-query)
 
 
 
