@@ -13,7 +13,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 <h2 align="center">Screenshots</h2>
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft"> 
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//300x300?text=App+Screenshot+Here" width="200" height="150" alt="Projeto-android"> 
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true" width="200" height="150" alt="projeto-cordel">
