@@ -135,7 +135,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  <h2 align="center">Projeto Media-Query</h2>
 
 <div  align="center" >
- <a href="http://media-query-wheat.vercel.app/"><img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true//300x300?text=App+Screenshot+Here" width="550" height="350" alt="Exemplo de Media-query">
+ <a href="http://media-query-wheat.vercel.app/"><img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true//300x300?text=App+Screenshot+Here" width="550" alt="Exemplo de Media-query">
 </div>
 </div>
 
