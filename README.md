@@ -20,6 +20,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true" width="200" height="150" alt="projeto-game-shop">
 <img src="https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true" width="200" height="150" alt="Projeto-bikcraft">
  <img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true" width="200" height="150" alt="Exemplo de Media-query">
+  <img src="https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/screnshot-projeto-login.png?raw=true" width="200" height="150" alt="Projeto-login">
 </div>
 
 <h2 align="center">Projeto Bikcraft</h2>
@@ -157,19 +158,19 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  <h2 align="center">Projeto Tela de Login</h2>
 
 <div  align="center" >
- <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+ <a href="https://projeto-login-liard.vercel.app/"> <img src="https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/screnshot-projeto-login.png?raw=true"  width="550" height="350" alt="projeto-login"></a>
 </div>
 
 <table align="center">
   <tr>
     <td>
      <b>
-      <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/">🌎 Acessar Projeto</a>
+      <a href="https://projeto-login-liard.vercel.app/">🌎 Acessar Projeto</a>
      </b>
       </td>
     <td>
      <b>
-        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">📓 Acessar Repositório</a>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-login">📓 Acessar Repositório</a>
      </b>
     </td>
   </tr>
