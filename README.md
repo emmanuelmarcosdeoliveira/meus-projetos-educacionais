@@ -37,7 +37,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
       </td>
     <td>
     <b>
-        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">📓 Acessar Repositorio</a>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">📓 Acessar Repositório</a>
     </b>
     </td>
   </tr>
@@ -58,7 +58,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
       </td>
     <td>
      <b>
-        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-android">📓 Acessar Repositorio</a>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-android">📓 Acessar Repositório</a>
      </b>
     </td>
   </tr>
@@ -80,7 +80,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
       </td>
     <td>
      <b>
-        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-cordel">📓 Acessar Repositorio</a>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-cordel">📓 Acessar Repositório</a>
      </b>
     </td>
   </tr>
@@ -102,7 +102,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
       </td>
     <td>
      <b>
-        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-game-shop">📓 Acessar Repositorio</a>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-game-shop">📓 Acessar Repositório</a>
      </b>
     </td>
   </tr>
@@ -124,7 +124,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
       </td>
     <td>
      <b>
-        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-redes-sociais">📓 Acessar Repositorio</a>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-redes-sociais">📓 Acessar Repositório</a>
      </b>
     </td>
   </tr>
@@ -147,7 +147,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
       </td>
     <td>
      <b>
-        <a href="https://github.com/emmanuelmarcosdeoliveira/media-query">📓 Acessar Repositorio</a>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/media-query">📓 Acessar Repositório</a>
      </b>
     </td>
   </tr>
@@ -169,7 +169,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
       </td>
     <td>
      <b>
-        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">📓 Acessar Repositorio</a>
+        <a href="https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft">📓 Acessar Repositório</a>
      </b>
     </td>
   </tr>
