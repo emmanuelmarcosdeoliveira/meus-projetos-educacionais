@@ -135,7 +135,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  <h2 align="center">Projeto Media-Query</h2>
 
 <div  align="center">
- <a href="http://media-query-wheat.vercel.app/"><  width="550" height="350" img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true" alt="Exemplo de Media-query">
+ <a href="http://media-query-wheat.vercel.app/"><img width="550" height="350" img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true" alt="Exemplo de Media-query">
 </div>
 </div>
 
@@ -158,7 +158,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  <h2 align="center">Projeto Tela de Login</h2>
 
 <div align="center">
- <a href="https://projeto-login-liard.vercel.app/"> <img  width="550" height="350"  src="https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/screnshot-projeto-login.png?raw=true" alt="projeto-login"></a>
+ <a href="https://projeto-login-liard.vercel.app/"> <img  width="550" height="350"src="https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/screnshot-projeto-login.png?raw=true" alt="projeto-login"></a>
 </div>
 
 <table align="center">
