@@ -25,8 +25,8 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 <h2 align="center">Projeto Bikcraft</h2>
 
-<div  align="center" >
- <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/" target="_blank"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true"  width="550" height="350" alt="Bikcraft"></a>
+<div align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/" target="_blank"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true//300x300?text=App+Screenshot+Here" alt="Bikcraft"></a>
 </div>
 
 <table align="center">
@@ -47,7 +47,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  
  <h2 align="center">Projeto Android</h2>
 
-<div  align="center" >
+<div align="center" >
  <a href="http://projetos-educacionais.vercel.app/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true//300x300?text=App+Screenshot+Here" width="550" height="350" alt="Projeto-android"> 
 
 <table align="center">
@@ -68,8 +68,8 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  
  <h2 align="center">Projeto Cordel Moderno</h2>
 
-<div  align="center" >
- <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-cordel/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true" width="550" height="350" alt="projeto-cordel">
+<div align="center" >
+ <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-cordel/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-cordel.jpg?raw=true//300x300?text=App+Screenshot+Here" width="550" height="350" alt="projeto-cordel">
 </div>
 
 <table align="center">
@@ -90,8 +90,8 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  
  <h2 align="center">Projeto Game-Shop</h2>
 
-<div  align="center" >
- <a href="http://1-projeto-game-shop.vercel.app/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true" width="550" height="350" alt="projeto-game-shop">
+<div align="center" >
+ <a href="http://1-projeto-game-shop.vercel.app/"> <img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-game-shop.jpg?raw=true//300x300?text=App+Screenshot+Here" width="550" height="350" alt="projeto-game-shop">
 </div>
 
 <table align="center">
@@ -112,8 +112,8 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  
  <h2 align="center">Projeto Redes Sociais</h2>
 
-<div  align="center" >
- <a href="http://projeto-redes-sociais-seven.vercel.app/"> <img src="https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true" width="550" height="350" alt="Projeto-bikcraft">
+<div align="center" >
+ <a href="http://projeto-redes-sociais-seven.vercel.app/"> <img src="https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/projeto-redes-sociais/d44c196addbdc9b2bc25bfa721f8b13d0356cd53/imagens/Descri%C3%A7%C3%A3o%20do%20Projeto.jpg?raw=true//300x300?text=App+Screenshot+Here" width="550" height="350" alt="Projeto-bikcraft">
 </div>
 
 <table align="center">
@@ -135,7 +135,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  <h2 align="center">Projeto Media-Query</h2>
 
 <div  align="center" >
- <a href="http://media-query-wheat.vercel.app/"><img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true" width="550" height="350" alt="Exemplo de Media-query">
+ <a href="http://media-query-wheat.vercel.app/"><img src="https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true//300x300?text=App+Screenshot+Here" width="550" height="350" alt="Exemplo de Media-query">
 </div>
 </div>
 
@@ -157,8 +157,8 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  
  <h2 align="center">Projeto Tela de Login</h2>
 
-<div  align="center" >
- <a href="https://projeto-login-liard.vercel.app/"> <img src="https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/screnshot-projeto-login.png?raw=true"  width="550" height="350" alt="projeto-login"></a>
+<div align="center" >
+ <a href="https://projeto-login-liard.vercel.app/"> <img src="https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/screnshot-projeto-login.png?raw=true//300x300?text=App+Screenshot+Here"  width="550" height="350" alt="projeto-login"></a>
 </div>
 
 <table align="center">
