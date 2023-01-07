@@ -25,10 +25,8 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 
 <h2 align="center">Projeto Bikcraft</h2>
 
-<div align="center" >
- <a href="https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/" target="_blank"> <img  width="550" height="350" src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-bikcraft.jpg?raw=true" alt="Bikcraft"></a>
-</div>
 
+![Bikcraft](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/Bikcraft.gif)
 <table align="center">
   <tr>
     <td>
