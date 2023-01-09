@@ -42,11 +42,11 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
   </tr>
 </table>
 <ul align="left">
+ <hr>
  
  <h2 align="center">Projeto Android</h2>
-
-<div align="center" >
- <a href="http://projetos-educacionais.vercel.app/"> <img  width="550" height="350"  src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/projeto-android.jpg?raw=true" alt="Projeto-android"> 
+ 
+ ![Projeto-Androdi](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/Projeto%20Android.gif)
 
 <table align="center">
   <tr>
