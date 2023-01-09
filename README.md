@@ -42,7 +42,6 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
   </tr>
 </table>
 <ul align="left">
- <hr>
  
  <h2 align="center">Projeto Android</h2>
  
