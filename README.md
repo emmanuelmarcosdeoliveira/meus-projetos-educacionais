@@ -26,7 +26,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
 <h2 align="center">Projeto Bikcraft</h2>
 
 
-![Bikcraft](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/Bikcraft.gif)
+![Bikcraft](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/Bik_.gif)
 <table align="center">
   <tr>
     <td>
