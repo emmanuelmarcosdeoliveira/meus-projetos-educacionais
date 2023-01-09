@@ -46,7 +46,7 @@ Nesses projetos aprendi  tecnicas de HTML e CSS e um pouco de responsividade em 
  
  <h2 align="center">Projeto Android</h2>
  
- ![Projeto-Androdi](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/Projeto%20Android.gif)
+ ![Projeto-Androdi](https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/Projeto%20-%20droid.gif)
 
 <table align="center">
   <tr>
